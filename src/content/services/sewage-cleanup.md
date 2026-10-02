@@ -28,7 +28,7 @@ Sewage backup cleanup is not the same job as water damage restoration, even when
 
 The sanitization phase that follows extraction is equally specific. Industrial-grade EPA-registered disinfectants are applied to all affected hard surfaces, concrete slab, tile, framing lumber, floor joists, and allowed to dwell at the contact times specified on the product label. HEPA air scrubbers run continuously to capture aerosolized contaminants during demolition and cleaning. Moisture readings are taken at every session to confirm that the structural drying phase is actually working, because sewage losses frequently involve water that has wicked into wall cavities and under flooring where it is invisible at the surface.
 
-Timeline: most residential sewage backup jobs move through extraction, demolition of unsalvageable materials, disinfection, and initial structural drying within 24 to 48 hours. Full structural drying typically requires three to five days depending on materials affected and ambient conditions. In Southern California's dry climate, drying times can run shorter than national averages, but only when the right number of air movers and dehumidifiers are deployed for the square footage and material types involved.
+Timeline: most residential sewage backup jobs move through extraction, demolition of unsalvageable materials, disinfection, and initial structural drying within 24 to 48 hours. Full structural drying typically requires three to five days depending on materials affected and ambient conditions. In Southern California's dry climate, drying times can run shorter than national averages, but only when the right number of dehumidifiers are deployed for the square footage and material types involved.
 
 ## Our process
 
@@ -40,13 +40,13 @@ Timeline: most residential sewage backup jobs move through extraction, demolitio
 
 4. **Disinfection and sanitization of structural surfaces.** All remaining hard surfaces, concrete, tile, framing, joists, are treated with EPA-registered disinfectants at label-specified dwell times. A second application is standard on any surface with direct sewage contact. Air scrubbers with HEPA filtration run throughout this phase.
 
-5. **Structural drying and clearance verification.** Calibrated air movers and low-grain refrigerant dehumidifiers are positioned per the IICRC S500 standard for the material types and square footage affected. Moisture readings are logged at each monitoring visit. Drying is not declared complete until readings return to established dry standards for the region, not just when the surface feels dry to the touch.
+5. **Structural drying and clearance verification.** Low-grain refrigerant dehumidifiers are positioned per the IICRC S500 standard for the material types and square footage affected. Moisture readings are logged at each monitoring visit. Drying is not declared complete until readings return to established dry standards for the region, not just when the surface feels dry to the touch.
 
 ## What separates a good sewage cleanup response from a bad one
 
 The most common mistake in sewage backup cleanup is treating it like a Category 1 water loss. Technicians who extract the water, run fans, and call it done are leaving active biological contamination in the building. Drywall that absorbed black water and was dried in place, rather than removed, remains a contamination and odor source long after the equipment is gone.
 
-A second common failure is incomplete extraction before drying equipment is placed. Water trapped under a floating floor or behind baseboard that isn't pulled will not dry in any reasonable timeframe regardless of how many air movers are running.
+A second common failure is incomplete extraction before drying equipment is placed. Water trapped under a floating floor or behind baseboard that isn't pulled will not dry in any reasonable timeframe regardless of how much drying equipment is running.
 
 Insurance adjusters on sewage losses look specifically for documentation of the contamination category, the moisture readings taken before and after, a clear demolition scope with photographs, and evidence that EPA-registered disinfectants were used at label dwell times, not just sprayed and wiped. An undocumented or under-documented sewage job frequently results in a disputed claim or a supplement fight months later when odor or mold returns.
 

@@ -2,7 +2,7 @@
 archetype: "services-hub"
 title: "Restoration Services in Corona | Dry County Restoration"
 h1: "Our Restoration Services"
-meta_description: "Full-service restoration in Corona: water, fire, mold, storm, biohazard, and commercial restoration. 24/7 response. Call (951) 667-9910."
+meta_description: "Based in Corona and serving all of Southern California: water, mold, fire, storm, biohazard, and commercial restoration. 24/7 response. Call (951) 667-9910."
 primary_keyword: "restoration services corona"
 secondary_keywords: ["damage restoration services", "property restoration services", "disaster restoration"]
 search_intent: "local_commercial"

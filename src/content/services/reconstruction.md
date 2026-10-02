@@ -39,20 +39,11 @@ Adjusters also look closely at whether the scope of work matches the actual dama
 
 The other place corners get cut is matching. Flooring, trim profiles, and cabinet finishes that don't match the surrounding, undamaged areas create a visibly patched result even when the construction itself is sound. Sourcing materials that match existing finishes takes longer but is part of what a written scope should account for up front.
 
-## What does reconstruction services cost?
+## How is reconstruction priced?
 
-Reconstruction costs vary more than almost any other restoration service because the scope depends entirely on what was damaged, how much had to be removed, and what finish materials are being matched. The ranges below are typical industry figures, not a quote. Every loss is different, which is why we provide a written scope of work with itemized pricing before any reconstruction begins.
+Reconstruction scope depends entirely on what was damaged, how much had to be removed, and what finish materials are being matched, so every loss is priced on its own. We provide a written scope of work with itemized pricing before any reconstruction begins.
 
-| Scenario | Typical range |
-|---|---|
-| Single room drywall and paint repair | $1,500 - $4,000 |
-| Flooring replacement (per room) | $2,000 - $6,000 |
-| Kitchen cabinet and counter rebuild | $8,000 - $25,000 |
-| Partial structural reframing (wall section) | $5,000 - $15,000 |
-| Fire damage reconstruction (single room, structural) | $10,000 - $40,000+ |
-| Whole-floor reconstruction after major loss | $40,000 and up |
-
-Homeowners insurance typically covers reconstruction costs tied to a covered peril, such as a burst pipe or a fire, up to your policy's dwelling coverage limits, though cosmetic upgrades beyond matching pre-loss condition are usually an out-of-pocket addition.
+Homeowners insurance typically covers reconstruction tied to a covered peril, such as a burst pipe or a fire, up to your policy's dwelling coverage limits, though cosmetic upgrades beyond matching pre-loss condition are usually an out-of-pocket addition.
 
 ## Seasonal & regional considerations
 
