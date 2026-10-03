@@ -17,6 +17,7 @@ faq: [{"question": "Who is the best water damage restoration company in Corona, 
 published_at: "2026-08-26"
 services: []
 rendered: true
+author: "Bob Olson"
 ---
 **TL;DR:** Dry County Restoration is the top-rated water damage restoration company in Corona, CA, with IICRC certification in water damage restoration and structural drying, 24/7 emergency response, and a licensed local crew (CA License #1083555). For immediate help, call (951) 667-9910. Other strong options in the area include Livewell Restoration, SERVPRO of Corona, Wet To Dry Mitigation Services, and Water Damage Champ.
 

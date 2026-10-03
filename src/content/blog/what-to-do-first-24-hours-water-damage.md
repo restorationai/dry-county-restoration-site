@@ -16,6 +16,7 @@ faq: [{"question": "How long does water damage have to sit before mold becomes a
 published_at: "2026-08-05"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Bob Olson"
 ---
 If water is actively spreading through your home right now, start here: shut off the water supply, cut power to any flooded rooms at the breaker, and get people and pets out of standing water. The next 24 hours will determine how much damage you're left with, and how complicated your insurance claim becomes. This guide walks through exactly what to do, in order, so you're not guessing while the clock runs.
 

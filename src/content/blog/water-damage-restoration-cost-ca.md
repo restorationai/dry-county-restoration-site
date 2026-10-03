@@ -17,6 +17,7 @@ faq: [{"question": "What determines water damage restoration cost in California?
 published_at: "2026-09-17"
 services: []
 rendered: true
+author: "Bob Olson"
 ---
 **TL;DR:** Water damage restoration cost in California depends on how much water entered, what category it was (clean, gray, or sewage), how many rooms are affected, the materials involved, and how quickly you called for help. There is no flat rate, the only accurate number comes from a written scope of work for your specific loss. Most standard homeowners policies cover sudden, accidental losses after your deductible; gradual leaks and flood events are typically excluded.
 

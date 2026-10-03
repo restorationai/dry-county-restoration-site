@@ -16,6 +16,7 @@ faq: [{"question": "Can I choose my own restoration company, or does my insuranc
 published_at: "2026-07-31"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Bob Olson"
 ---
 Choosing a restoration company after a disaster is one of the hardest decisions you'll make under pressure, your house is wet, smoky, or growing something green, and strangers are calling your phone before the adjuster even shows up. The short answer: vet before you sign. A legitimate restoration contractor will give you written documentation of scope, carry verifiable certifications, and work transparently with your insurance carrier. A bad one will rush you into a contract, inflate the estimate, and disappear when the drying equipment needs to come back. Here's how to tell the difference.
 

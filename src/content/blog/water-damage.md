@@ -17,6 +17,7 @@ faq: [{"question": "How quickly does water damage need to be addressed in Chino,
 published_at: "2026-09-24"
 services: []
 rendered: true
+author: "Bob Olson"
 ---
 **TL;DR:** Water damage in Chino, CA requires fast action. Stop the water source, document everything before touching it, and call a licensed restoration company within the first hour. Restoration typically runs $1,500 to $8,000 depending on how much water spread and how long it sat. Most homeowners insurance covers sudden, accidental losses. Mold can start growing in 24 to 48 hours, so speed matters more than anything else.
 

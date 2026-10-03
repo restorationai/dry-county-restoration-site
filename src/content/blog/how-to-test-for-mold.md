@@ -16,6 +16,7 @@ faq: [{"question": "How long does it take for mold to grow after a water leak?",
 published_at: "2026-07-26"
 services: ["mold-remediation", "mold-inspection-testing"]
 rendered: true
+author: "Bob Olson"
 ---
 If you've spotted a dark stain on the ceiling, caught a musty smell after a plumbing leak, or had someone mention mold during a home inspection, you're probably wondering how to confirm whether it's actually there, and how serious it is. The short answer: DIY mold test kits can tell you *something* is growing, but they can't tell you how much, where it's coming from, or whether your home is safe to occupy. A professional inspection gives you all three. Here's how to think through the decision.
 

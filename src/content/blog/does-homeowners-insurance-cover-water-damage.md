@@ -16,6 +16,7 @@ faq: [{"question": "My insurance company sent an adjuster who denied my claim. C
 published_at: "2026-07-22"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Bob Olson"
 ---
 The short answer: homeowners insurance *sometimes* covers water damage, but the cause of the water matters more than the damage itself. A burst pipe that soaks your living room overnight is usually covered. A slow leak under the sink that's been dripping for six months usually isn't. Understanding that distinction before you file a claim can save you thousands of dollars and a lot of frustration.
 

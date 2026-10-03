@@ -17,6 +17,7 @@ faq: [{"question": "How much does professional leak detection cost?", "answer": 
 published_at: "2026-10-01"
 services: []
 rendered: true
+author: "Bob Olson"
 ---
 **TL;DR:** Professional leak detection uses acoustic listening equipment, thermal imaging, and moisture meters to find hidden water leaks inside walls, under slabs, and behind fixtures without tearing open the structure first. A typical inspection runs 1 to 3 hours and pinpoints the leak's location within inches, so repair crews open only what they need to. Most homeowners call for this when their water bill spikes, they hear running water with every fixture off, or they spot a soft spot in flooring with no obvious source.
 

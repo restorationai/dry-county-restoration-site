@@ -17,6 +17,7 @@ faq: [{"question": "What determines water damage restoration cost in California?
 published_at: "2026-08-31"
 services: ["water-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Bob Olson"
 ---
 **TL;DR:** Water damage restoration cost depends on the water category (clean, gray, or sewage), how many rooms are affected, the materials involved, and how long the water sat before extraction started. The single biggest factor you control is how fast you act. Most standard homeowners policies cover sudden, accidental losses after your deductible; gradual leaks and flood events are typically excluded. Dry County Restoration provides a written scope of work before any work begins, so you know exactly what you are paying for.
 

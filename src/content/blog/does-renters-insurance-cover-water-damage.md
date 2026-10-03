@@ -17,6 +17,7 @@ faq: [{"question": "Does renters insurance cover water damage to my belongings?"
 published_at: "2026-09-03"
 services: ["water-damage-restoration", "sewage-cleanup"]
 rendered: true
+author: "Bob Olson"
 ---
 **TL;DR:** Renters insurance typically covers your personal belongings when a sudden, accidental water event damages them. It does not cover the building structure, that is your landlord's responsibility under their own policy. Gradual leaks, flooding, and sewage backups are usually excluded unless you added specific riders. Knowing which policy covers what before you file saves you from a denied claim and a delayed recovery.
 

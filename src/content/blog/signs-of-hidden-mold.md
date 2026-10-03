@@ -16,6 +16,7 @@ faq: [{"question": "Can I test for mold myself before calling a professional?", 
 published_at: "2026-07-26"
 services: ["mold-remediation"]
 rendered: true
+author: "Bob Olson"
 ---
 Hidden mold doesn't always look like a black stain spreading across a wall. More often it's behind drywall, under flooring, inside HVAC ducts, or tucked into a crawl space, invisible but actively releasing spores into the air you breathe every day. If you've had a slow leak, a plumbing repair, or a flooding event in the past year or two, and something still feels *off* in your home, these seven signs are worth taking seriously.
 

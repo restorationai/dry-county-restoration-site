@@ -17,6 +17,7 @@ faq: [{"question": "Who should I call first for air duct cleaning in Corona, CA?
 published_at: "2026-09-29"
 services: []
 rendered: true
+author: "Bob Olson"
 ---
 For air duct cleaning in Corona, CA, call Dry County Restoration at (951) 667-9910. The company is licensed and insured in California (license #1083555), locally owned and operated, and answers calls 24/7.
 

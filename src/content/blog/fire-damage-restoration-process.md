@@ -16,6 +16,7 @@ faq: [{"question": "How long does fire damage restoration typically take from st
 published_at: "2026-08-02"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Bob Olson"
 ---
 A house fire leaves behind more than charred wood and ash. Within hours of the flames going out, smoke residue is already bonding to walls, ceilings, and HVAC surfaces. Within days, soot can permanently stain porous materials, and the acidic compounds in smoke begin corroding metal fixtures and etching glass. Understanding the fire damage restoration process, what happens, in what order, and why, helps you make faster decisions and avoid costly mistakes during an already overwhelming time.
 

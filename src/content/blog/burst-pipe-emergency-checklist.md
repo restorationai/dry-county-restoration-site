@@ -16,6 +16,7 @@ faq: [{"question": "How long does it take for water damage to become a mold prob
 published_at: "2026-07-24"
 services: ["water-damage-restoration", "appliance-leak-cleanup"]
 rendered: true
+author: "Bob Olson"
 ---
 If a pipe just burst in your home, here's what to do right now: shut off your main water supply, cut power to any affected rooms at the breaker panel, and get everything off the floor that you can move in the next two minutes. Then call a plumber to fix the break and a water damage restoration company to handle the water that's already in your walls, floors, and ceiling. The rest of this guide walks through every step, including the mistakes that turn a manageable repair into a months-long ordeal.
 
