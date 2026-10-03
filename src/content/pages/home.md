@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "Dry County Restoration | Restoration Services in Corona, CA"
-h1: "24/7 Restoration Services in Corona"
-meta_description: "Dry County Restoration provides 24/7 water, fire, mold, and storm damage restoration across Corona and surrounding areas. Licensed, insured, IICRC-certified. Call (951) 667-9910."
-primary_keyword: "restoration services corona"
-secondary_keywords: ["restoration company near me", "24/7 damage restoration", "emergency restoration"]
+title: "Water Damage Restoration in Corona, CA | Dry County Restoration"
+h1: "24/7 Water Damage Restoration in Corona, CA"
+meta_description: "Dry County Restoration provides water damage restoration in Corona, CA, answering 24/7. IICRC certified. Call (951) 667-9910 now."
+primary_keyword: "water damage restoration corona"
+secondary_keywords: ["best restoration company in corona", "restoration company corona", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "5c37f06419948e4d"
