@@ -1,9 +1,9 @@
 ---
 archetype: "blog-post"
-title: "How To Choose a Restoration Company in  (Without Getting Burned)"
-h1: "How To Choose a Restoration Company in  (Without Getting Burned)"
+title: "How To Choose a Restoration Company in Corona (Without Getting Burned)"
+h1: "How To Choose a Restoration Company in Corona (Without Getting Burned)"
 meta_description: ""
-primary_keyword: "how to choose a restoration company in  without getting burned"
+primary_keyword: "how to choose a restoration company in corona without getting burned"
 secondary_keywords: ["water damage restoration", "fire damage restoration", "mold remediation"]
 search_intent: "commercial_decision"
 priority: 5.4
@@ -11,7 +11,7 @@ plan_hash: "0cb75dafabbc7aaa"
 generated_at: "2026-08-08T19:14:22.179887+00:00"
 manual_override: false
 internal_links: ["/blog/", "/services/fire-damage-restoration/", "/services/mold-remediation/", "/services/water-damage-restoration/", "/blog/burst-pipe-emergency-checklist/", "/blog/what-to-do-first-24-hours-water-damage/", "/blog/does-homeowners-insurance-cover-water-damage/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a Restoration Company in  (Without Getting Burned)"}]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a Restoration Company in Corona (Without Getting Burned)"}]
 faq: [{"question": "Can I choose my own restoration company, or does my insurance company get to decide?", "answer": "In California, you have the right to choose your own licensed contractor, your insurance carrier cannot require you to use a specific vendor or their preferred network. The carrier can review the scope and negotiate pricing, but the choice of who enters your home is yours. Be cautious of any contractor who implies otherwise, as that claim is inaccurate."}, {"question": "What's the difference between a restoration company and a general contractor, and does it matter?", "answer": "A restoration company specializes in emergency mitigation and remediation, extraction, drying, smoke cleanup, mold removal, and typically holds certifications specific to those processes. A general contractor handles construction and rebuild. After a major loss, you often need both: the restoration firm stabilizes and cleans, and a GC handles the structural repairs. Some restoration companies offer both services; others hand off to a rebuild partner once remediation is complete. Ask upfront which phase of the project a company covers so you're not left managing a gap."}, {"question": "How long does water damage remediation actually take?", "answer": "Structural drying typically takes three to five days when equipment is properly sized and placed, though that range shifts based on how much water intruded, what materials were affected, and ambient conditions. Concrete slabs, dense insulation, and older plaster walls hold moisture longer than modern drywall. Your contractor should be taking daily moisture readings and sharing them with you, drying is complete when documented target levels are reached, not on a fixed calendar schedule."}, {"question": "Is mold always visible, and do I need a test before calling a remediation company?", "answer": "Mold is not always visible. It commonly grows inside wall cavities, under flooring, and behind baseboards, you may notice a musty smell or see discoloration on drywall before any surface growth appears. You don't need a professional mold test before calling a remediation company; a qualified inspector can assess the situation visually and with moisture meters first. Independent testing by an industrial hygienist is most valuable after remediation, as a clearance check to confirm the work was successful."}]
 published_at: "2026-07-31"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
