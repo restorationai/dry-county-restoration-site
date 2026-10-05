@@ -53,6 +53,6 @@ Corona and the surrounding Inland Empire sit in a semi-arid climate, but that do
 
 ## Service area
 
-Dry County Restoration is based in Corona and responds to water damage calls throughout the Inland Empire and surrounding communities, including Riverside, Norco, Eastvale, Chino Hills, Ontario, Rancho Cucamonga, and the Temescal Valley corridor. City-specific pages detail local considerations for each area.
+Dry County Restoration is based in Corona and responds to water damage calls throughout the Inland Empire and surrounding communities, including [Riverside](/service-areas/riverside-ca/water-damage-restoration/), [Norco](/service-areas/norco-ca/water-damage-restoration/), Eastvale, Chino Hills, Ontario, Rancho Cucamonga, and the Temescal Valley corridor. City-specific pages detail local considerations for each area.
 
 If water is still moving in your home, call (951) 667-9910 now, Dry County Restoration operates 24/7 and can begin extraction the same day. If the water has stopped but you're not sure how far it traveled, schedule a moisture assessment before walls are closed up or flooring is replaced.

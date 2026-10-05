@@ -60,6 +60,6 @@ Older housing stock in established Corona neighborhoods, much of it built in the
 
 ## Service area
 
-Dry County Restoration is based in Corona and serves fire damage restoration calls throughout Riverside County and the surrounding region, including Norco, Eastvale, Chino Hills, Riverside, Moreno Valley, and the communities along the 91 and 15 corridors. Each city-specific service page covers local considerations in more detail.
+Dry County Restoration is based in Corona and serves fire damage restoration calls throughout Riverside County and the surrounding region, including [Norco](/service-areas/norco-ca/fire-damage-restoration/), Eastvale, Chino Hills, [Riverside](/service-areas/riverside-ca/fire-damage-restoration/), Moreno Valley, and the communities along the 91 and 15 corridors. Each city-specific service page covers local considerations in more detail.
 
 If you're looking at smoke-stained walls and the smell still hasn't left the house, that's the signal to act. Call Dry County Restoration at (951) 667-9910, available 24/7, to begin smoke and soot removal before secondary damage compounds the loss.

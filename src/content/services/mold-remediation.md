@@ -57,6 +57,6 @@ Homes in the older neighborhoods of Corona, many built in the 1950s through 1970
 
 ## Service area
 
-Dry County Restoration is based in Corona and responds to mold remediation calls throughout the Inland Empire and surrounding communities, including Riverside, Norco, Eastvale, Chino Hills, Ontario, Rancho Cucamonga, and the foothill cities along the 91 and 15 corridors. Each city-specific service page links back here for the full process detail.
+Dry County Restoration is based in Corona and responds to mold remediation calls throughout the Inland Empire and surrounding communities, including [Riverside](/service-areas/riverside-ca/mold-remediation/), [Norco](/service-areas/norco-ca/mold-remediation/), Eastvale, Chino Hills, Ontario, Rancho Cucamonga, and the foothill cities along the 91 and 15 corridors. Each city-specific service page links back here for the full process detail.
 
 If you are smelling something that was not there before a recent leak, or you have found visible growth and are not sure how far it extends, call (951) 667-9910 to request an air quality assessment. We are available 24/7, and the sooner the moisture source and affected area are properly scoped, the more contained the remediation scope, and cost, tends to be.
