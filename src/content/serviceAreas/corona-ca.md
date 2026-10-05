@@ -37,7 +37,7 @@ Biohazard and trauma cleanup, along with storm and wind damage from the seasonal
 
 ## Coverage and how fast we can get there
 
-Operating out of Corona itself means short drive times to most of the city, whether you're near the 91 freeway corridor, along the I-15 interchange, or tucked into the hillside streets closer to the Cleveland National Forest boundary. We answer calls 24/7 and dispatch as soon as a crew is available, without the lag of a crew commuting in from another county.
+Operating out of Corona itself means short drive times to most of the city, whether you're near the 91 freeway corridor, along the I-15 interchange, or tucked into the hillside streets closer to the Cleveland National Forest boundary. We answer calls 24/7 and dispatch as soon as a crew is available, without the lag of a crew commuting in from another county. For properties just outside Corona, see our pages on [water damage restoration in Norco](/service-areas/norco-ca/water-damage-restoration/) and [water damage restoration in Riverside](/service-areas/riverside-ca/water-damage-restoration/).
 
 ## Building stock, site conditions, and permits in Corona
 
