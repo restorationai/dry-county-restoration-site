@@ -61,7 +61,7 @@ export const brand = {
   certifications: ["IICRC Certified Firm", "IICRC WRT (Water)", "IICRC ASD (Structural Drying)", "IICRC AMRT (Mold)", "OSHA Trained"] as string[],
   trustBadges: ["Licensed & Insured", "Locally Owned & Operated"] as string[],
   jobPhotos: [] as string[],
-  sameAsUrls: ["https://maps.google.com/maps?cid=2637755477782444584"] as string[],
+  sameAsUrls: ["https://maps.google.com/maps?cid=2637755477782444584", "https://www.facebook.com/drycountyrestoration/"] as string[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
