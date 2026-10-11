@@ -27,7 +27,7 @@ You came home to water dripping from the ceiling, soaking your couch, your lapto
 
 Renters insurance covers your personal property, furniture, electronics, clothing, appliances you own, when a covered peril causes the damage. Most standard renters policies (HO-4 form) list sudden and accidental water discharge as a covered peril. That means if your upstairs neighbor's washing machine hose bursts and water soaks your unit, your renters policy can reimburse you for your damaged belongings. The building itself, including walls, floors, and ceilings, is your landlord's problem.
 
-The [Insurance Information Institute](https://www.iii.org/article/what-covered-renters-insurance) summarizes the standard HO-4 covered perils clearly: sudden and accidental discharge from a plumbing system is in; flood and earth movement are out. That distinction matters more than most renters realize until they are standing in a wet apartment.
+The [Insurance Information Institute](https://www.iii.org/article/renters-insurance) summarizes the standard HO-4 covered perils clearly: sudden and accidental discharge from a plumbing system is in; flood and earth movement are out. That distinction matters more than most renters realize until they are standing in a wet apartment.
 
 Here is what renters policies typically pay for:
 

@@ -25,7 +25,7 @@ If you just found standing water in your home and you're trying to figure out wh
 
 ## How Is Water Damage Restoration Cost Determined?
 
-There is no flat rate for water damage restoration, because no two losses are the same. The [IICRC S500 Standard for Professional Water Damage Restoration](https://www.iicrc.org/page/IICRCS500) classifies each loss by category and class, and both directly affect the scope of work. Restoration companies price from that scope, so the faster you stop the water and start extraction, the smaller the scope tends to be. A clean-water loss caught within hours is a straightforward drying job; a Category 3 event that sat for two days before anyone noticed involves demolition, antimicrobial treatment, and far more equipment.
+There is no flat rate for water damage restoration, because no two losses are the same. The [IICRC S500 Standard for Professional Water Damage Restoration](https://iicrc.org/s500/) classifies each loss by category and class, and both directly affect the scope of work. Restoration companies price from that scope, so the faster you stop the water and start extraction, the smaller the scope tends to be. A clean-water loss caught within hours is a straightforward drying job; a Category 3 event that sat for two days before anyone noticed involves demolition, antimicrobial treatment, and far more equipment.
 
 ## What Does Water Category Mean for Cost?
 

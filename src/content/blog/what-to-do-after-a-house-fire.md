@@ -52,7 +52,7 @@ If the fire department used significant water on the structure, treat standing w
 
 Document the full scope of loss, room by room, before any cleanup or disposal begins, since a missing item never photographed is much harder to claim later. Walk every room with your phone, narrate what you're seeing out loud as you film, and don't throw anything away yet, even items that look obviously ruined.
 
-Make a running inventory list with approximate purchase dates and values for major items: furniture, electronics, appliances. The [American Red Cross](https://www.redcross.org/get-help/disaster-relief-and-recovery-services/recovering-from-a-home-fire.html) has a free home inventory worksheet that's useful here if you don't already have one on file.
+Make a running inventory list with approximate purchase dates and values for major items: furniture, electronics, appliances. The [American Red Cross](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/fire/home-fire-recovery.html) has a free home inventory worksheet that's useful here if you don't already have one on file.
 
 Ask your insurer whether they want to inspect contents in place before anything is moved to storage. Salvageable items, like clothing, upholstery, and electronics, often need specialized cleaning rather than replacement, and a contents restoration process that follows IICRC guidelines can recover items your adjuster would otherwise write off entirely, which keeps more of the claim working in your favor instead of against it.
 
@@ -60,7 +60,7 @@ Ask your insurer whether they want to inspect contents in place before anything 
 
 Most homes can be saved after a fire. Total losses are the exception, generally limited to fires with major roof or floor collapse, widespread structural charring, or foundation damage from prolonged heat exposure. Smoke and soot damage, even when it looks catastrophic on move-in day, is almost always remediable.
 
-For a contained fire affecting one or two rooms with moderate smoke spread, restoration typically runs two to four weeks: structural drying if water was used, soot and odor remediation following the [IICRC S700 standard](https://www.iicrc.org/page/IICRCS700) for fire restoration, then rebuild of damaged drywall, flooring, or cabinetry. A whole-floor fire with significant structural rebuild can run two to four months. Our [fire damage restoration process](/blog/fire-damage-restoration-process/) post walks through each phase in more detail if you want the full picture before a crew arrives.
+For a contained fire affecting one or two rooms with moderate smoke spread, restoration typically runs two to four weeks: structural drying if water was used, soot and odor remediation following the [IICRC S700 standard](https://iicrc.org/s700/) for fire restoration, then rebuild of damaged drywall, flooring, or cabinetry. A whole-floor fire with significant structural rebuild can run two to four months. Our [fire damage restoration process](/blog/fire-damage-restoration-process/) post walks through each phase in more detail if you want the full picture before a crew arrives.
 
 Get a written scope of work before any demolition starts, and confirm with your contractor what's covered by the insurance estimate versus what you're paying for out of pocket. Every fire loss is different, and a documented scope protects you from surprises on both sides.
 
