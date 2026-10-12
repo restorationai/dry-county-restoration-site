@@ -11,7 +11,7 @@ hero: "/images/blog/2026/10/who-to-call-for-water-damage-restoration-in-riversid
 og: "/images/blog/2026/10/who-to-call-for-water-damage-restoration-in-riverside-ca/hero.webp"
 generated_at: "2026-10-08T10:28:39Z"
 manual_override: false
-internal_links: ["/services/water-damage-restoration/", "/services/emergency-plumbing/", "/services/water-heater-flood-cleanup/", "/services/water-leak-detection/", "/services/sewage-cleanup/", "/service-areas/riverside-ca/", "/"]
+internal_links: ["/services/water-damage-restoration/", "/services/water-heater-flood-cleanup/", "/services/water-leak-detection/", "/services/sewage-cleanup/", "/service-areas/riverside-ca/", "/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Who to Call for Water Damage Restoration in Riverside, CA"}]
 faq: [{"question": "Who should I call first for water damage restoration in Riverside, CA?", "answer": "Call a 24/7, IICRC-certified restoration company before anyone else, including your insurance agent. Dry County Restoration answers at (951) 667-9910 and can dispatch a crew the same day. Only call 911 or your utility first if there's an active electrical or gas hazard."}, {"question": "Should I call my insurance company before or after the restoration crew?", "answer": "Call the restoration company first to stop the damage, then notify your insurer once mitigation is underway. Most policies expect you to prevent further loss immediately; waiting on an adjuster before extraction starts can actually work against your claim."}, {"question": "What if the water damage is from a sewage backup instead of a clean leak?", "answer": "Treat it as contaminated Category 3 water and stay out of the room until a crew arrives. Sewage backups require specialized sewage cleanup protocols, not standard water extraction, because of the health risk from bacteria and pathogens in the water."}, {"question": "How much does emergency water damage restoration cost in Riverside?", "answer": "Cost depends on how many rooms are affected, how long water sat before cleanup started, and whether flooring or drywall needs removal. A written scope after the initial assessment gives an accurate number; every loss is different, so avoid any quote given before someone has actually seen the damage."}]
 published_at: "2026-10-08"
@@ -36,7 +36,7 @@ The right call depends on whether the water is still flowing and what's causing 
 
 Here's the quick breakdown homeowners in Riverside usually need:
 
-- **Burst pipe or supply line, water still running:** shut the main or fixture valve, then call a restoration company that also offers [emergency plumbing](/services/emergency-plumbing/) or works alongside one.
+- **Burst pipe or supply line, water still running:** shut the main or fixture valve, then call a restoration company that also offers emergency plumbing or works alongside one.
 - **Water heater failure:** shut off the cold supply valve at the tank, then call for [water heater flood cleanup](/services/water-heater-flood-cleanup/).
 - **Slow leak you can't locate:** this calls for [leak detection](/services/water-leak-detection/) before drying equipment goes in, so the source gets fixed, not just the symptom.
 - **Backed-up toilet or sewer line:** this is contaminated Category 3 water. Stay out of the room and call for [sewage cleanup](/services/sewage-cleanup/), not a standard water job.
