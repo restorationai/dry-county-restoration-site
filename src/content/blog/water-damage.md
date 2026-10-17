@@ -37,7 +37,7 @@ For a full step-by-step checklist, see our post on [what to do in the first 24 h
 
 Not all water damage is the same. The IICRC classifies water into three categories based on contamination level, and that classification drives both the cleanup method and the cost.
 
-**Category 1 (clean water)** comes from a supply line, a faucet, or rain intrusion. It's the least hazardous and the least expensive to remediate. A broken refrigerator line or a supply hose behind a washing machine typically falls here.
+**Category 1 (clean water)** comes from a supply line or a faucet. It's the least hazardous and the least expensive to remediate. Rain intrusion through a roof leak or window usually starts as Category 1 but can degrade to Category 2 or 3 depending on how it enters and how long it sits; wind-driven storm rain is Category 3. A broken refrigerator line or a supply hose behind a washing machine typically falls here.
 
 **Category 2 (gray water)** contains contaminants that can cause illness. Dishwasher overflow, washing machine discharge, and toilet overflow without solid waste are common examples. It requires more thorough extraction and antimicrobial treatment.
 

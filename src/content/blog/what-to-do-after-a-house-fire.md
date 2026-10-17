@@ -20,7 +20,7 @@ services: ["fire-damage-restoration", "emergency-board-up-tarping", "contents-re
 rendered: true
 author: "Bob Olson"
 ---
-**TL;DR:** After a house fire, wait for the fire department's clearance before re-entering, even if the flames are out. Don't touch light switches or appliances until the power is confirmed safe. Photograph everything before you move or clean anything, then call your insurance company the same day. Get broken windows and doors boarded up fast, since an open structure invites weather damage, theft, and more soot migration. Most homes can be saved unless the fire caused major structural collapse, and a typical restoration timeline runs two to six weeks for moderate damage.
+**TL;DR:** After a house fire, wait for the fire department's clearance before re-entering, even if the flames are out. Don't touch light switches or appliances until the power is confirmed safe. Photograph everything before you move or clean anything, then call your insurance company the same day. Get broken windows and doors boarded up fast, since an open structure invites weather damage, theft, and more soot migration. Most homes can be saved unless the fire caused major structural collapse, and a typical restoration timeline runs two to four weeks for moderate, contained damage, longer for larger losses.
 
 If the Corona Fire Department just cleared your home near Dos Lagos, Eagle Glen, or along the 91 corridor and you're standing on the sidewalk in your pajamas at 2 a.m., you already know the flames are out. What you probably don't know is what happens in the next hour, whether you can sleep in your own bed tonight, and what you need to do before an insurance adjuster ever shows up. Here's the order that actually matters.
 
