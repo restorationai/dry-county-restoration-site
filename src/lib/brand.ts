@@ -66,14 +66,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "93",
+  gbpReviewCount: "95",
   gbpReviews: [
+    { author: "Michael", rating: 5, text: "Responded quickly. Super helpful with insurance. Loved the results.", when: "October 2026" },
+    { author: "Larry", rating: 5, text: "Communicative and professional.", when: "October 2026" },
     { author: "Kevin", rating: 5, text: "Great speedy service. Didn’t try to upsell anything and provided great recommendations.", when: "October 2026" },
     { author: "Phyllis", rating: 5, text: "I am extremely pleased with the work Dry County did for me. They were very friendly, thoughtful and thorough. I exactly looked forward to them coming everyday. ❤️ I highly recommend them.", when: "October 2026" },
     { author: "Leslie", rating: 5, text: "Dry County responded quickly! Steve, Bob and the team are very helpful, informative and supportive throughout the process! Highly recommend!", when: "October 2026" },
     { author: "Central", rating: 5, text: "They mitigated the situation well", when: "September 2026" },
-    { author: "Gary", rating: 5, text: "Very professional Did. not require a call back Would highly recommend them to", when: "September 2026" },
-    { author: "Pete", rating: 5, text: "Dry County Restoration did an awesome job repairing my water damage. They are very professional and efficient.", when: "September 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Corona, CA.",
   ctaLabel: "24/7 Emergency Line",
