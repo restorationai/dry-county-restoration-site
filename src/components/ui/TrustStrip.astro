@@ -39,7 +39,7 @@ const defaultBadges: string[] = [
 // AWARDS LEAD (Santino 2026-09-27): a named award is the strongest trust +
 // AI-citation signal we can show; it always takes the first slot.
 const awardBadges: string[] = ((brand as { awards?: { name: string; year?: string | number }[] }).awards || [])
-  .slice(0, 1).map((a) => `${a.name}${a.year && !String(a.name).includes(String(a.year)) ? ` ${a.year}` : ""} Winner`);
+  .slice(0, 1).map((a) => (a as { badge?: string }).badge || `${a.name}${a.year && !String(a.name).includes(String(a.year)) ? ` ${a.year}` : ""}`);
 const badges: string[] = [...awardBadges, ...(brand.trustBadges || [])];
 for (const d of defaultBadges) {
   if (badges.length >= 4) break;
