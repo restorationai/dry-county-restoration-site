@@ -1,6 +1,6 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | Dry County Restoration Restoration"
+title: "Service Areas | Dry County Restoration"
 h1: "Areas We Serve"
 meta_description: "Dry County Restoration provides 24/7 restoration services across Corona and the surrounding region. Find your city."
 primary_keyword: "dry county restoration service areas"
