@@ -16,7 +16,19 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await entry.render();
 const data = entry.data;
-const heroImage = data.hero || "/images/hero-bg.webp" /* preview: switch to `${brand.imagesBase}/brand/...` at production cutover */;
+// CITY BANNERS VARY (Bob 11-10, via a site review: "the same van photo
+// reused across most pages"). Every city page used to fall back to the
+// homepage fleet photo; each now gets one of the site's own vehicle-free
+// service photos, picked from the city slug so it is stable per city and
+// differs between cities.
+const CITY_HEROES = [
+  "water-damage-restoration", "emergency-water-removal", "flood-damage-restoration",
+  "burst-pipe-repair", "ceiling-water-damage-repair", "water-leak-detection",
+  "fire-damage-restoration", "smoke-damage-restoration", "sewage-cleanup",
+  "mold-inspection-testing", "basement-flooding-cleanup", "reconstruction",
+];
+const _cityIdx = [...String(data.area_slug || "")].reduce((h, c) => (h * 31 + c.charCodeAt(0)) >>> 0, 7) % CITY_HEROES.length;
+const heroImage = data.hero || `/images/services/${CITY_HEROES[_cityIdx]}.webp` /* preview: switch to `${brand.imagesBase}/brand/...` at production cutover */;
 
 // Sister cross-product pages for this area, sorted by priority
 // HOME CITY (Santino 2026-10-02): the home city has no city x service
