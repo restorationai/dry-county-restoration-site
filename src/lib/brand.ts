@@ -67,14 +67,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "103",
+  gbpReviewCount: "104",
   gbpReviews: [
+    { author: "Jose", rating: 5, text: "Really glad to learn mopping it up myself only traps moisture.", when: "November 2026" },
     { author: "No", rating: 5, text: "We've got an older rental with questionable wiring and aging plumbing, so I wanted to understand what actually drives a general contracting bill before we touch anything. Talking with the team here I got a clear sense of how permits and prep work factor into the final number instead of just…", when: "November 2026" },
     { author: "William", rating: 5, text: "A guy from Dry County Restoration mentioned a leak job where the homeowner noticed a damp spot creeping up one kitchen wall for weeks before calling anyone. Once his crew got behind the cabinets they found a supply line had been weeping slowly for months, enough to warp the wood underneath. He told…", when: "November 2026" },
     { author: "Bren", rating: 5, text: "Straightforward, friendly, and helpful!", when: "November 2026" },
     { author: "Isaac", rating: 5, text: "The Bussniess is Awesome thanks again !", when: "November 2026" },
     { author: "Marco", rating: 5, text: "Good energy drink steady energy", when: "November 2026" },
-    { author: "Kellyn", rating: 5, text: "Dry county restoration has excellent quality and precision. This is my second time using their company and each time they have gone above and beyond to ensure good communication and efficient work.", when: "October 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Corona, CA.",
   ctaLabel: "24/7 Emergency Line",
