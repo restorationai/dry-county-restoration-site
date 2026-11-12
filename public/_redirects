@@ -309,3 +309,11 @@
 /wpautoterms/terms-and-conditions/ /terms/ 301
 /wpautoterms/professional-privacy-policy /privacy/ 301
 /wpautoterms/professional-privacy-policy/ /privacy/ 301
+# Google Ads landing pages from the old site (desk 2026-11-12): the iCatch
+# "Water Damage" ads (live) and "Leak Detection" ads (paused) still point at
+# these; they were in no sitemap, so the 11-07 cutover missed them and Google
+# disapproved 3 ads on 11-11 (Destination not working, HTTP 404).
+/water-damage-lp /services/water-damage-restoration/ 301
+/water-damage-lp/ /services/water-damage-restoration/ 301
+/leak-detection-lp /services/water-leak-detection/ 301
+/leak-detection-lp/ /services/water-leak-detection/ 301
