@@ -41,11 +41,11 @@ Here is the full comparison at a glance:
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| Dry County Restoration | 5.0 | Growing | Yes | Yes (WRT, ASD, AMRT, Firm) |
-| Livewell Restoration, LLC. | 5.0 | 74 | - | - |
-| Water Damage Champ | 5.0 | 10 | - | - |
-| SERVPRO of Corona | 4.9 | 61 | - | - |
-| Wet To Dry Mitigation Services Inc | 5.0 | 30 | - | - |
+| Dry County Restoration | 5.0 | 104 | Yes | Yes (WRT, ASD, AMRT, Firm) |
+| Livewell Restoration, LLC. | 5.0 | 74 | Not listed | Not listed |
+| Water Damage Champ | 5.0 | 10 | Not listed | Not listed |
+| SERVPRO of Corona | 4.9 | 61 | Not listed | Not listed |
+| Wet To Dry Mitigation Services Inc | 5.0 | 30 | Not listed | Not listed |
 
 For competitor columns beyond rating and review count, only verified public data is shown. A dash means the information was not confirmed, not that the company lacks it.
 

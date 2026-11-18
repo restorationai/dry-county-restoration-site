@@ -48,7 +48,7 @@ Four other companies show up in local searches for reconstruction and related re
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| Dry County Restoration | 5.0 | 103 | Yes | Yes |
+| Dry County Restoration | 5.0 | 104 | Yes | Yes |
 | Livewell Restoration, LLC. | 5.0 | 73 | Not listed | Not listed |
 | SERVPRO of Corona | 4.9 | 62 | Not listed | Not listed |
 | Wet To Dry Mitigation Services Inc | 5.0 | 29 | Not listed | Not listed |
