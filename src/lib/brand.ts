@@ -25,8 +25,8 @@ export const brand = {
   // keep the canonical NAP number above — humans dial the tracked line,
   // Google sees consistent NAP. Empty = feature off (default at scaffold;
   // filled by the call-tracking provisioning step).
-  trackingPhone: "(951) 629-3771",
-  trackingPhoneRaw: "+19516293771",
+  trackingPhone: "(833) 482-9643",
+  trackingPhoneRaw: "+18334829643",
   email: "info@drycountyrestoration.com",
   hours: "24/7",
   // AVAILABILITY 24/7 (Santino 2026-11-21, scripts/availability.py): calls are
