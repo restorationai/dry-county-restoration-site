@@ -1,1 +1,88 @@
-[]
+[
+ {
+  "slug": "water-damage-restoration-corona-ca",
+  "variant": "v2",
+  "city": "Corona",
+  "state": "CA",
+  "intent": "city",
+  "h1": "Water Damage Restoration in Corona, CA",
+  "metaTitle": "Water Damage Restoration in Corona, CA | Dry County",
+  "metaDescription": "24/7 water damage restoration in Corona, CA. IICRC-certified crew, insurance documentation handled. Call Dry County Restoration now.",
+  "heroSubtitle": "Water spreads into walls and subfloor within hours. We answer 24/7 and can start extraction the same day.",
+  "serviceLabel": "Water Damage Restoration",
+  "bodyContent": {
+   "heading": "Stop Water Damage Before It Spreads",
+   "intro": "Standing water soaks into subfloor, drywall and insulation within the first hour, and mold can start growing in 24 to 48 hours. Dry County Restoration removes the water, maps where moisture traveled, and dries your home to measured standards. Call now and our Corona crew can begin extraction the same day.",
+   "bullets": [
+    "Open 24/7 for water emergencies",
+    "IICRC WRT and ASD certified crew",
+    "We work with all insurance carriers",
+    "Licensed and insured, License #1083555"
+   ],
+   "callout": "If water is still moving in your home, call Dry County Restoration now at (951) 667-9910."
+  },
+  "processSteps": [
+   {
+    "title": "Emergency Extraction",
+    "body": "Standing water comes out first with submersible pumps and truck-mounted extractors to limit how far it spreads."
+   },
+   {
+    "title": "Moisture Mapping",
+    "body": "Thermal imaging and moisture meters find hidden water in walls, under cabinets and in subfloor, and confirm the water category."
+   },
+   {
+    "title": "Monitored Structural Drying",
+    "body": "Dehumidifiers and air movers are placed to IICRC S500 guidelines, with daily readings to track progress."
+   },
+   {
+    "title": "Documentation for Insurance",
+    "body": "Final moisture readings and a full drying report go to your insurance carrier to support your claim."
+   }
+  ],
+  "heroImageUrl": "/images/hero-bg.webp",
+  "featureImageUrl": "/images/services/water-damage-restoration.webp"
+ },
+ {
+  "slug": "water-leak-detection-corona-ca",
+  "variant": "v2",
+  "city": "Corona",
+  "state": "CA",
+  "intent": "city",
+  "h1": "Water Leak Detection in Corona, CA",
+  "metaTitle": "Water Leak Detection in Corona, CA | Dry County",
+  "metaDescription": "24/7 water leak detection in Corona, CA. Thermal imaging, acoustic and slab leak testing with a written report. Licensed and insured. Call now.",
+  "heroSubtitle": "Find the hidden leak before it becomes a bigger repair. Non-invasive detection, available 24/7.",
+  "serviceLabel": "Water Leak Detection",
+  "bodyContent": {
+   "heading": "Find the Leak Without Tearing Your Home Apart",
+   "intro": "A water bill that jumped for no reason, a warm spot on the slab, or a musty smell can mean a leak is running behind a wall or under the foundation. We locate the source with non-invasive tools before anything gets opened up. You get a written report so the repair can start without guesswork.",
+   "bullets": [
+    "Thermal imaging, acoustic sensors and moisture meters",
+    "Slab leak detection with electromagnetic locating",
+    "Written report with photos and thermal images",
+    "Licensed and insured, CA License #1083555"
+   ],
+   "callout": "Spotted a damp patch or a strange water bill? Call Dry County Restoration 24/7 to get it checked."
+  },
+  "processSteps": [
+   {
+    "title": "Symptom Review",
+    "body": "We start with what you have noticed, like a spiking water bill, a damp patch or the sound of running water."
+   },
+   {
+    "title": "Non-Invasive Scanning",
+    "body": "Thermal imaging and acoustic sensors scan walls, slab and ceilings before any cutting happens."
+   },
+   {
+    "title": "Isolate and Pinpoint",
+    "body": "We pressure test plumbing zones and use electromagnetic locators to mark the exact point of failure."
+   },
+   {
+    "title": "Report and Handoff",
+    "body": "You get a written report with location, likely cause and images, ready for your plumber or our restoration team."
+   }
+  ],
+  "heroImageUrl": "/images/hero-bg.webp",
+  "featureImageUrl": "/images/services/water-leak-detection.webp"
+ }
+]
